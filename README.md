@@ -1,4 +1,4 @@
-***<h1 align="center"> Hello, Everyone I'm Nandana Sri Dharmarathne</h1>***
+***<h1 align="center"> Hello Everyone, I'm Nandana Sri Dharmarathne</h1>***
 <h3 align="center">ICT Officer | Network Technician</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nsdharmarathne&label=Profile%20views&color=0e75b6&style=flat" alt="nsdharmarathne" /> </p>
 
